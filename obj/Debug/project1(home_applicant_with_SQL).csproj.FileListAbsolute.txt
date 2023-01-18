@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\summer_Camp_Projects\C#\project1(home_applicant_with_SQL)\project1(home_applicant_with_SQL)\bin\Debug\project1(home_applicant_with_SQL).exe.config
+C:\Users\lenovo\Desktop\summer_Camp_Projects\C#\project1(home_applicant_with_SQL)\project1(home_applicant_with_SQL)\bin\Debug\project1(home_applicant_with_SQL).exe
+C:\Users\lenovo\Desktop\summer_Camp_Projects\C#\project1(home_applicant_with_SQL)\project1(home_applicant_with_SQL)\bin\Debug\project1(home_applicant_with_SQL).pdb
+C:\Users\lenovo\Desktop\summer_Camp_Projects\C#\project1(home_applicant_with_SQL)\project1(home_applicant_with_SQL)\obj\Debug\project1(home_applicant_with_SQL).csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\summer_Camp_Projects\C#\project1(home_applicant_with_SQL)\project1(home_applicant_with_SQL)\obj\Debug\project1_home_applicant_with_SQL_.Properties.Resources.resources
+C:\Users\lenovo\Desktop\summer_Camp_Projects\C#\project1(home_applicant_with_SQL)\project1(home_applicant_with_SQL)\obj\Debug\project1(home_applicant_with_SQL).csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\summer_Camp_Projects\C#\project1(home_applicant_with_SQL)\project1(home_applicant_with_SQL)\obj\Debug\project1(home_applicant_with_SQL).csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\summer_Camp_Projects\C#\project1(home_applicant_with_SQL)\project1(home_applicant_with_SQL)\obj\Debug\project1(home_applicant_with_SQL).exe
+C:\Users\lenovo\Desktop\summer_Camp_Projects\C#\project1(home_applicant_with_SQL)\project1(home_applicant_with_SQL)\obj\Debug\project1(home_applicant_with_SQL).pdb
+C:\Users\lenovo\Desktop\summer_Camp_Projects\C#\project1(home_applicant_with_SQL)\project1(home_applicant_with_SQL)\obj\Debug\project1_home_applicant_with_SQL_.add.resources
+C:\Users\lenovo\Desktop\summer_Camp_Projects\C#\project1(home_applicant_with_SQL)\project1(home_applicant_with_SQL)\obj\Debug\project1_home_applicant_with_SQL_.MenuOfTech.resources
+C:\Users\lenovo\Desktop\summer_Camp_Projects\C#\project1(home_applicant_with_SQL)\project1(home_applicant_with_SQL)\obj\Debug\project1_home_applicant_with_SQL_.See.resources
